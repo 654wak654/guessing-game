@@ -1,6 +1,6 @@
 {
-    "short_name": "Guessing Game",
-    "name": "Guessing Game App",
+    "short_name": "Tahmin Oyunu",
+    "name": "Tahmin Oyunu",
     "icons": [
         {
             "src": "favicon.ico",
@@ -20,6 +20,6 @@
     ],
     "start_url": ".",
     "display": "standalone",
-    "theme_color": "#000000",
-    "background_color": "#ffffff"
+    "theme_color": "#f2f3f5",
+    "background_color": "#36393f"
 }
